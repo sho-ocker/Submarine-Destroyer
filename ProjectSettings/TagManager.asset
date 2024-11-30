@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Explosive
+  - Wall
+  - SmallBomb
+  - DepthCharge
+  - Submarine
+  - SeaLine
+  - Mine
+  - Plane
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ship
+  - Water
+  - UI
+  - DepthCharge
+  - Mine
+  - SunkShip
+  - MinePlane
+  - MineSubmarine
+  - SeaLine
+  - Submarine
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Sky
+    uniqueID: 3822359487
+    locked: 0
+  - name: Sea
+    uniqueID: 152901241
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
